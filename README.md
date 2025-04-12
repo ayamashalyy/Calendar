@@ -12,5 +12,3 @@ https://github.com/ayamashalyy/Calendar
 🎥 Here's a short screen recording showing how it works 👇
 
 [Watch the video](https://drive.google.com/file/d/1OU7qJM753i1K1uthvhoPHbhXiyk5zrUj/view?usp=share_link)
-
-#iOS #UIKit #Swift #Calendar #OpenSource #iOSDevelopment
